@@ -1,0 +1,12 @@
+
+table{
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  font-size: 20px;
+}
+th{
+  background: #00a9b0;
+  color: #fff;
+  padding: 5px 0;
+}
